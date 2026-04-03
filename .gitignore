@@ -1,0 +1,12 @@
+# Ignore all executable files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+
+# Ignore environment variables
+.env
+config.json
+secret.txt
